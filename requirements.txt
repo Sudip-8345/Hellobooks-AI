@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+
+langgraph
+
+langchain-groq
+langchain-google-genai
+
+faiss-cpu
+
+python-dotenv
+
+panel
